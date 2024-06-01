@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14373931/screenshots/20229892/media/2916c362ae81f1f7fafbbe12f59cd8dc.gif">
 
 
-[![](https://visitcount.itsvg.in/api?id=debanjan-bera&icon=8&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=debanjan-bera&label=Profile%20Views&color=6&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ### 💫 About Me:
 - 🎓 I am currently in my second year of studying for a **BCA** degree.
