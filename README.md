@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Debanjna Bera</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate Full-stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/14373931/screenshots/20229892/media/2916c362ae81f1f7fafbbe12f59cd8dc.gif">
 
 
 [![](https://visitcount.itsvg.in/api?id=debanjan-bera&label=Profile%20Views&color=6&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ### 💫 About Me:
-- 🎓 I am currently in my second year of studying for a **BCA** degree.
+- 🎓 I'm a BCA student passionate about **Full-stack Web Development and Data Science**.
 
-- 🌱 I’m currently learning **Front-end development**.
+- 🌱 I’m currently learning **Back-end Development**.
 
-- 👀 I’m interested in **Full-stack web Development**.
+- 👀 I’m interested in **AI & ML**.
 
 
 
@@ -19,9 +19,12 @@
 
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=debanjan-bera&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+### <summary><h2>📊 Stats and Activity</h2></summary>
+
+### <h3>🔥Streak Stats</h3>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=radical&hide_border=true)<br/>
+### <h3>💻 GitHub Profile Stats</h3>
+![](https://github-readme-stats.vercel.app/api?username=debanjan-bera&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-bera&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=debanjan-bera&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/debanjan-bera/github-readme-activity-graph)
 
