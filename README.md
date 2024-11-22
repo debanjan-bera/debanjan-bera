@@ -43,7 +43,7 @@
 <summary><h2>📊 Stats and Activity</h2></summary>
 
 ### <h3>🔥Streak Stats</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=radical&hide_border=true" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=radical&hide_border=true" alt="GitHub Streak Stats"><br/>
 ### <h3>💻 GitHub Profile Stats</h3>
 ![](https://github-readme-stats.vercel.app/api?username=debanjan-bera&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-bera&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
