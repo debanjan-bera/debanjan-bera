@@ -43,8 +43,8 @@
 ### <h3>🔥Streak Stats</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=radical&hide_border=true" alt="GitHub Streak Stats"><br/>
 ### <h3>💻 GitHub Profile Stats</h3>
-![](https://github-readme-stats.vercel.app/api?username=debanjan-bera&theme=radical&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-bera&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=debanjan-bera&theme=radical&hide_border=true&include_all_commits=false&count_private=fals)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-bera&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=debanjan-bera&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/debanjan-bera/github-readme-activity-graph)
 
