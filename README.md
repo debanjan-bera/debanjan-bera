@@ -10,19 +10,18 @@
 - 🌱 I’m currently learning **Pyhton, Advance Back-end Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, SQL, Python, React.js, Node.js, Git & GitHub, Frontend, Backend,HTML,CSS**
-<br/>
-<br/>
+  
 <p><h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Tech Stack</h3></p>
  <h3>👨‍💻 Programming and Markup Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,c,py,html" />
+    <img src="https://skillicons.dev/icons?i=js,c,py,html,css" />
   </a>
 </p>
 <h3>🧰 Frameworks and Libraries</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs" />
   </a>
 </p>
 <h3 align="left">🗄️ Databases</h3>
@@ -34,7 +33,7 @@
 <h3 align="left">💻 Software and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode,css" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   </a>
 </p>
 
