@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debanjna Bera</h1>
 <h3 align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=19FFD6&center=true&vCenter=true&width=700&lines=A+passionate+Software+developer+from+India" alt="Typing SVG" /></a></h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/14373931/screenshots/20229892/media/2916c362ae81f1f7fafbbe12f59cd8dc.gif">
+<img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/14373931/screenshots/20229892/media/2916c362ae81f1f7fafbbe12f59cd8dc.gif">
 
 
 [![](https://visitcount.itsvg.in/api?id=debanjan-bera&label=Profile%20Views&color=6&icon=6&pretty=false)](https://visitcount.itsvg.in)
@@ -9,11 +9,11 @@
 - ❤️ I’m currently in love with <b>Full Stack Applicatons</b>.
 - 🌱 I’m currently learning **Pyhton, Advance Back-end Development**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, SQL, Python, React.js, Node.js, Git & GitHub, Frontend ,Backend***
-
-<img src="https://github.com/user-attachments/assets/0cefad05-58a9-4aa0-a070-f75a0c9b0353" height="32px"> Tech Stack:
+- 💬 Ask me about **JavaScript, SQL, Python, React.js, Node.js, Git & GitHub, Frontend, Backend,HTML,CSS**
+<br/>
+<br/>
+<p><h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Tech Stack</h3></p>
  <h3>👨‍💻 Programming and Markup Languages</h3>
-</br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,c,py,html" />
@@ -51,8 +51,6 @@
 <a href="https://github.com/debanjan-bera/github-readme-stats"><img alt="Uday Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=debanjan-bera&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/debanjan-bera/github-readme-stats"><img alt="Uday Sharma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-bera&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-
-
 [![](https://github-readme-activity-graph.vercel.app/graph?username=debanjan-bera&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/debanjan-bera/github-readme-activity-graph)
 
 </p>
