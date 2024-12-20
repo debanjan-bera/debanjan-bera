@@ -42,7 +42,7 @@
 <h3>🔥Streak Stats</h3>
 <p align="center">
 <a href="https://https://github.com/debanjan-bera/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Uday Sharma streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Debanjan Bera streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <h3> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">GitHub Profile Stats</h3>
