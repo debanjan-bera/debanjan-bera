@@ -39,8 +39,10 @@
 
 <summary><h2><img src="https://github.com/user-attachments/assets/b0f0a235-563d-41f2-95e9-0ebfb8e4ecbd" width = 35px height = 35px></a> Stats and Activity</h2></summary>
 
-<h2>🔥Streak Stats</h2>
+
+<h3>🔥Streak Stats</h2>
 <p align="center">
+  
 <a href="https://https://github.com/debanjan-bera/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Debanjan Bera streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
