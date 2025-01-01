@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **JavaScript, SQL, Python, React.js, Node.js, Git & GitHub, Frontend, Backend,HTML,CSS**
   
-<p><h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> Tech Stack</h3></p>
+<p><h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack</h3></p>
  <h3>👨‍💻 Programming and Markup Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -47,10 +47,11 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Debanjan Bera streak" src="https://github-readme-streak-stats.herokuapp.com/?user=debanjan-bera&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<h3> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">GitHub Profile Stats</h3>
+<h3> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">GitHub Profile Stats</h3>
 <p align="center">
-<a href="https://github.com/debanjan-bera/github-readme-stats"><img alt="Uday Sharma Github Stats" src="https://github-readme-stats.vercel.app/api?username=debanjan-bera&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/debanjan-bera/github-readme-stats"><img alt="Uday Sharma Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-bera&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<img alt="Debanjan Bera Github Stats" src="https://github-readme-stats.vercel.app/api?username=debanjan-bera&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  
+<img alt="Debanjan Bera Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debanjan-bera&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   
 [![](https://github-readme-activity-graph.vercel.app/graph?username=debanjan-bera&theme=github-compact&area_color=0a5b00&area=true)](https://github.com/debanjan-bera/github-readme-activity-graph)
 
@@ -58,10 +59,8 @@
 
 
 ### 🔝 Top Contributed Repo
-<p align="center">
+    
+  ![](https://github-contributor-stats.vercel.app/api?username=debanjan-bera&limit=5&theme=react&hide_border=false&bg_color=0D1117&combine_all_yearly_contributions=true&align=center)
 
- ![](https://github-contributor-stats.vercel.app/api?username=debanjan-bera&limit=5&theme=react&hide_border=false&bg_color=0D1117&combine_all_yearly_contributions=true)
-
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
